@@ -1,6 +1,7 @@
 ## Hi, I'm Sahil 🖐️
 
 💻 B-TECH Computer Science Engineering student at TIT.
+
 ✨ Building valuable tech products and scalable data-driven businesses that solve meaningful real-world problems.
 
 ## Currently Learning
@@ -15,8 +16,9 @@
 
 - 2+ years of experience in digital in-game product sales, generating revenue through independent online strategies.  
 - Experience in Physical Product reselling business, managing sourcing, pricing strategy, profit margins, and customer relationships.  
-- Learned HTML,CSS,Basic data Entry.
+- Learned HTML,CSS,Basic python language and data Entry.
 ![image alt](https://github.com/officialSahil-dev/OfficialSahil/blob/3f9be2e605fffb2bcf2773cf86e55278a090a866/IMG_20260302_113837%5B1%5D.jpg)
+![image alt](https://github.com/officialSahil-dev/OfficialSahil/blob/51718cbe674c95b094ca052fd89dfbc3f9b1b27e/IMG_20260302_113927%5B1%5D.jpg)
 
 ## Goal
 
